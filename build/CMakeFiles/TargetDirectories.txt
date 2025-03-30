@@ -1,0 +1,3 @@
+/home/prom/cache/MyCache/build/CMakeFiles/main.dir
+/home/prom/cache/MyCache/build/CMakeFiles/edit_cache.dir
+/home/prom/cache/MyCache/build/CMakeFiles/rebuild_cache.dir
